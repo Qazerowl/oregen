@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:ore_redstone",
+  "feature": "minecraft:ore_granite",
   "placement": [
     {
       "type": "minecraft:count",

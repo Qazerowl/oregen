@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:ore_redstone",
+  "feature": "minecraft:ore_diorite",
   "placement": [
     {
       "type": "minecraft:count",

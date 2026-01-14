@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:ore_iron_middle",
+  "feature": "minecraft:ore_iron",
   "placement": [
     {
       "type": "minecraft:count",
