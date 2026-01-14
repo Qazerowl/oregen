@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "Ore generation overhaul base: remove vanilla ore and stone variant features."
+    "description": "Vanilla datapack that disables all vanilla ore placed features."
   }
 }
